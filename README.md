@@ -1,7 +1,9 @@
 # Hi 👋  My name is Anthony.
 
-### A fullstack Web Developer (Backen Major), Community builder, Health and Blockchain Enthusiast. Open for Job, Volunteering and community building.
-! [coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png)
+### A fullstack Web Developer (Backen Major), Community builder,    :medical_symbol:Health and :heavy_dollar_sign::coin:Blockchain Enthusiast. Open for Job, Volunteering and community building.
+! :pushpin:[coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png)
+
+:large_blue_circle:     :hash: :two:👍:zero::two::two: :large_blue_circle:
 <!--
 **Tony-smile/Tony-smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ð¬Goal-oriented and highly motivated penultimate Pharmacy student passionate about back-end engineering. Highly motivated about website and application development and currently a member of Google Developer Student Clubs (GDSC) UNN.
+:dart::traffic_light:Goal-oriented and highly motivated penultimate :pill:👍:syringe::stethoscope: student passionate about back-end engineering. Highly motivated about website and application development and currently a member of @Google Developer Student Clubs (GDSC) UNN.
 
- 💻I'm  recently on Zuri Scholarship. learning Full-stack Development.
+ 💻I'm  recently on @Zuri Scholarship. learning Full-stack Development.
 
- I'm also an active member of numerous developer communities like Techniverse, Ingressive For Good, DevCareer Africa, Zuri, BlockChain UNN.
+ :gemini:I'm also an active member of numerous developer communities like @Techniverse, @Ingressive For Good, @DevCareer Africa, @Zuri, @BlockChain UNN.
 
-🌍 I'm based in Enugu, Enugu State, Nigeria.
+🌍 I'm based in Enugu, Enugu State,     :nigeria:Nigeria.
+
 📧You can contact me at anthonyugwuja.dev@gmail.com.
-:handshake: I'm open to collaborating on HTML, CSS, JavaScript (React and Nodejs) and Python(Django) projects!
+
+:handshake: I'm open to collaborating on HTML, CSS, JavaScript (:atom_symbol:React and :blue_heart:Nodejs) and :yellow_heart:Python(Django) projects:infinity:!
