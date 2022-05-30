@@ -48,23 +48,18 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/tonysmile">
     <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png"/>
 </a>
-<a href="https://www.linkedin.com/in/zluvsand/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+<a href="https://mobile.twitter.com/Tonysmile_1/">
+    <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/twitter.png"/>
 </a>
-<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+<a href="https://m.facebook.com/ugwujaprincearthurtony/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/facebook.png"/>
 </a>
-
-<p align="center">
-
-<a href=?https://www.linkedin.com/in/tonysmile/">
-<img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png" alt=?Tonysmile | LinkedIn? width=?21px?/></a>
-
-<a href=?https://mobile.twitter.com/Tonysmile_1/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/twitter.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
-<a href=?https://m.facebook.com/ugwujaprincearthurtony/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/facebook.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
-<a href=?https://bit.ly/3wk4VBh/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/whatsapp.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
-<a href=?www.discordapp.com/users/841057700413702164/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/discord.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
-<p>
+<a href="https://bit.ly/3wk4VBh">
+    <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/whatsapp.png"/>
+</a>
+<a href="www.discordapp.com/users/841057700413702164">
+    <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/discord.png"/>
+</a>
 
 ***
 ### 🧰 Language and Tools:
