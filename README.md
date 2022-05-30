@@ -2,12 +2,11 @@
 
 ### A fullstack Web Developer (Backen Major), Community builder,    :medical_symbol:Health and :heavy_dollar_sign::coin:Blockchain Enthusiast. Open for Job, Volunteering and community building.
 
-<hr>
 📌
 
-![coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png "coverpage")
+![coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/twittercoverpage.png "coverpage")
 
-<center>:large_blue_circle:   :hash:  :two:  0️⃣   :two: :two: :large_blue_circle: </center>
+<p text-align: "center">:large_blue_circle:   :hash:  :two:  0️⃣   :two: :two: :large_blue_circle: </p>
 <!--
 **Tony-smile/Tony-smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
