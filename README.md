@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Tony-smile?cardType=github&theme=react&Border=DDDDDD)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony-smile&layout=compact"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tony-smile"/>
+
 ***
 ### 🤝 Connect with me (Social):
 <a href=?https://www.linkedin.com/in/tonysmile/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
@@ -50,16 +53,16 @@ Here are some ideas to get you started:
 
 ***
 ### 🧰 Language and Tools:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
 ***
 ### Latest Blog Posts:
-* <a src="https://tony-smile.github.io/tributepeterobi/">A Tribute Page to Peter Obi, incoming Nigerian President 2023.</a>
+* [A Tribute Page to Peter Obi, incoming Nigerian President 2023.](https://tony-smile.github.io/tributepeterobi/)
