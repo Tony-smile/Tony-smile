@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/xregexp/xregexp-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/javaScript/javascript-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <p>
