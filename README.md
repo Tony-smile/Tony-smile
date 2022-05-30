@@ -1,7 +1,8 @@
 # Hi 👋  My name is Anthony.
 
 ### A fullstack Web Developer (Backen Major), Community builder,    :medical_symbol:Health and :heavy_dollar_sign::coin:Blockchain Enthusiast. Open for Job, Volunteering and community building.
-![coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png raw=true)
+📌
+![coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png "coverpage")
 
 :large_blue_circle:   :hash:  :two:  👍:zero:    :two: :two: :large_blue_circle:
 <!--
