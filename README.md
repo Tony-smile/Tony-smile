@@ -1,4 +1,4 @@
-# Hi 👋  My name is Anthony.
+# Hi 👋  My name is Anthony Chinedu.
 
 ### A fullstack Web Developer (Backen Major), Community builder,    :medical_symbol:Health and :heavy_dollar_sign::coin:Blockchain Enthusiast. Open for Job, Volunteering and community building.
 📌
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:dart::traffic_light:Goal-oriented and highly motivated penultimate 💊 💉  :stethoscope: Pharmacy, student passionate about back-end engineering. Highly motivated about website and application development and currently a member of @Google Developer Student Clubs (GDSC) UNN.
+:dart::traffic_light:Goal-oriented and solution driven penultimate 💊 💉  :stethoscope: Pharmacy student, passionate about back-end engineering. Highly motivated about website and application development and currently a member of @Google Developer Student Clubs (GDSC) UNN.
 ***
  💻I'm  recently on @Zuri Scholarship. learning Full-stack Development.
 
