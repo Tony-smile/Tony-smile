@@ -45,13 +45,14 @@ Here are some ideas to get you started:
 
 ***
 ### 🤝 Connect with me (Social):
+<p align="center">
 <a href="https://www.linkedin.com/in/tonysmile">
     <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png"/>
 </a>
 <a href="https://mobile.twitter.com/Tonysmile_1/">
     <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/twitter.png"/>
 </a>
-<a href="https://m.facebook.com/ugwujaprincearthurtony/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+<a href="https://m.facebook.com/ugwujaprincearthurtony">
     <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/facebook.png"/>
 </a>
 <a href="https://bit.ly/3wk4VBh">
@@ -60,6 +61,7 @@ Here are some ideas to get you started:
 <a href="www.discordapp.com/users/841057700413702164">
     <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/discord.png"/>
 </a>
+<p>
 
 ***
 ### 🧰 Language and Tools:
