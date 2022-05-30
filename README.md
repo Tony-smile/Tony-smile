@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 
 ***
 ### 🤝 Connect with me (Social):
-<a href=?https://www.linkedin.com/in/tonysmile/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
+<a href=?https://www.linkedin.com/in/tonysmile/">
+<img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png" alt=?Tonysmile | LinkedIn? width=?21px?/>
+</a>
+
 <a href=?https://mobile.twitter.com/Tonysmile_1/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/twitter.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
 <a href=?https://m.facebook.com/ugwujaprincearthurtony/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/facebook.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
 <a href=?https://bit.ly/3wk4VBh/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/whatsapp.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
@@ -54,14 +57,14 @@ Here are some ideas to get you started:
 ***
 ### 🧰 Language and Tools:
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/Nodejs/nodejs-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <br />
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/xregexp/xregexp-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/Django/django-ar21.svg"></code>
 
 ***
 ### Latest Blog Posts:
