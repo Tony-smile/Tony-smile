@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:dart::traffic_light:Goal-oriented and highly motivated penultimate :pill:👍:syringe::stethoscope: student passionate about back-end engineering. Highly motivated about website and application development and currently a member of @Google Developer Student Clubs (GDSC) UNN.
+:dart::traffic_light:Goal-oriented and highly motivated penultimate :pill:👍:syringe::stethoscope: Pharmacy, student passionate about back-end engineering. Highly motivated about website and application development and currently a member of @Google Developer Student Clubs (GDSC) UNN.
 ***
  💻I'm  recently on @Zuri Scholarship. learning Full-stack Development.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 📧You can contact me at anthonyugwuja.dev@gmail.com.
 ***
-:handshake: I'm open to collaborating on 
-*HTML, CSS, 
-*JavaScript (:atom_symbol:React and :blue_heart:Nodejs) and 
-*:yellow_heart:Python(Django) projects:infinity:!
+:handshake: I'm open to collaborating on :
+* HTML, CSS, 
+* JavaScript (:atom_symbol:React and :blue_heart:Nodejs) and 
+* :yellow_heart:Python(Django) projects:infinity:!
