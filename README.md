@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 * :yellow_heart:Python(Django) projects:infinity:!
 ***
 ### GitHub Stat
-[![Tonysmile’s github stats](https://github-readme-stats.vercel.app/api?username=Tony-smile theme="dark")](https://github.com/Tony-smile)
+<img src="https://github-readme-stats.vercel.app/api?username=Tony-smileand&show_icons=true&theme=dark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-smile&layout=compact theme="dark")](https://github.com/Tony-smile)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony-smileand&layout=compacttheme=dark"/>
 ***
 ### 🤝 Connect with me (Social):
 <a href=?https://www.linkedin.com/in/tonysmile/"><img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png" alt=?Yu Shi | LinkedIn? width=?21px?/></a>
