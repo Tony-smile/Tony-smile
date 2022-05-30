@@ -45,7 +45,18 @@ Here are some ideas to get you started:
 
 ***
 ### 🤝 Connect with me (Social):
+<a href="https://www.linkedin.com/in/tonysmile">
+    <img height="50" src="https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png"/>
+</a>
+<a href="https://www.linkedin.com/in/zluvsand/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+</a>
+
 <p align="center">
+
 <a href=?https://www.linkedin.com/in/tonysmile/">
 <img align=?left? src=?https://raw.githubusercontent.com/Tony-smile/images-icons/master/icons/linkedin.png" alt=?Tonysmile | LinkedIn? width=?21px?/></a>
 
@@ -66,7 +77,7 @@ Here are some ideas to get you started:
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/xregexp/xregexp-ar21.svg"></code>
 <code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/django/django-ar21.svg"></code>
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <p>
 
 ***
