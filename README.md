@@ -1,4 +1,6 @@
-### Hi there 👋
+###  👋 Hi My name is Anthony.
+
+## A fullstack Web Developer (Backen Major), Community builder, Health and Blockchain Enthusiast. Open for Job, Volunteering and community building.
 
 <!--
 **Tony-smile/Tony-smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
