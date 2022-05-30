@@ -1,9 +1,9 @@
 # Hi 👋  My name is Anthony.
 
 ### A fullstack Web Developer (Backen Major), Community builder,    :medical_symbol:Health and :heavy_dollar_sign::coin:Blockchain Enthusiast. Open for Job, Volunteering and community building.
-! :pushpin:[coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png)
+! :pushpin:[coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png raw=true)
 
-:large_blue_circle:     :hash: :two:👍:zero::two::two: :large_blue_circle:
+:large_blue_circle:   :hash:  :two: 👍:zero: :two: :two: :large_blue_circle:
 <!--
 **Tony-smile/Tony-smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 :dart::traffic_light:Goal-oriented and highly motivated penultimate :pill:👍:syringe::stethoscope: student passionate about back-end engineering. Highly motivated about website and application development and currently a member of @Google Developer Student Clubs (GDSC) UNN.
-
+<hr>
  💻I'm  recently on @Zuri Scholarship. learning Full-stack Development.
 
  :gemini:I'm also an active member of numerous developer communities like @Techniverse, @Ingressive For Good, @DevCareer Africa, @Zuri, @BlockChain UNN.
