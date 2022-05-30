@@ -1,9 +1,9 @@
 # Hi 👋  My name is Anthony.
 
 ### A fullstack Web Developer (Backen Major), Community builder,    :medical_symbol:Health and :heavy_dollar_sign::coin:Blockchain Enthusiast. Open for Job, Volunteering and community building.
-! :pushpin:[coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png raw=true)
+![coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/likndncover.png raw=true)
 
-:large_blue_circle:   :hash:  :two: 👍:zero: :two: :two: :large_blue_circle:
+:large_blue_circle:   :hash:  :two:  👍:zero:    :two: :two: :large_blue_circle:
 <!--
 **Tony-smile/Tony-smile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
  💻I'm  recently on @Zuri Scholarship. learning Full-stack Development.
 
  :gemini:I'm also an active member of numerous developer communities like @Techniverse, @Ingressive For Good, @DevCareer Africa, @Zuri, @BlockChain UNN.
-
+<hr>
 🌍 I'm based in Enugu, Enugu State,     :nigeria:Nigeria.
 
 📧You can contact me at anthonyugwuja.dev@gmail.com.
-
+<hr>
 :handshake: I'm open to collaborating on HTML, CSS, JavaScript (:atom_symbol:React and :blue_heart:Nodejs) and :yellow_heart:Python(Django) projects:infinity:!
