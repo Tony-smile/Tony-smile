@@ -36,12 +36,16 @@ Here are some ideas to get you started:
 * JavaScript (:atom_symbol:React and :blue_heart:Nodejs) and 
 * :yellow_heart:Python(Django) projects:infinity:!
 ***
-### GitHub Stat
+### GitHub Stat:
+<p align="center">
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Tony-smile?cardType=github&theme=react&Border=DDDDDD)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tony-smile&layout=compact"/>
 
+### Total Contribution and Streaks:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tony-smile"/>
+<p>
 
 ***
 ### 🤝 Connect with me (Social):
