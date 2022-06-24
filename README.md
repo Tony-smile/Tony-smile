@@ -3,7 +3,7 @@
 ### A fullstack Web Developer (Backen Major), Community builder,    :medical_symbol:Health and :heavy_dollar_sign::coin:Blockchain Enthusiast. Open for Job, Volunteering and community building.
 📌
 
-![coverpage](https://raw.githubusercontent.com/Tony-smile/portfolio/master/images/twittercoverpage.png "coverpage")
+![coverpage](https://raw.githubusercontent.com/Tony-smile/images-icons/master/images/twittercoverpage.png "coverpage")
 
 <p align="center">:large_blue_circle:   :hash:  :two:  0️⃣   :two: :two: :large_blue_circle: </p>
 
